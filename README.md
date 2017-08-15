@@ -18,7 +18,7 @@ Instalacion
 
 La instalacion de este script es muy simple, solo hace falta :
 
-- Obtener el Token de Slack en 
+- Obtener el Token de Slack en https://api.slack.com/custom-integrations/legacy-tokens
 - Abrir UNIRME.PHP y agregarle el Token en la Variable :
 
  $token = 'ACA INGRESA EL TOKEN OBTENIDO';
